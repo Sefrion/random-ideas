@@ -1,0 +1,15 @@
+{
+  "name": "randomideas-api",
+  "version": "1.0.0",
+  "description": "Ideas sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Vlad Ilienkov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
